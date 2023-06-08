@@ -1,0 +1,36 @@
+body {
+background: #F5F5F5;
+
+}
+article {
+    left: calc(50% - 1099px/2 - 109.5px);    
+}
+.pic-1 {
+    width: 339px;
+    height: 339px;
+}
+
+.pic-2 {
+    width: 500px;
+    height: 375px;
+}
+
+.pic-3 {
+    width: 500px;
+    height: 377px;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+.block-1 {
+    width: 1099px;
+    height: 72px;
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+.block-2 {
+    font-size: 16px;
+}
